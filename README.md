@@ -83,8 +83,19 @@ StudentDL, ProgramDL, SubjectDL
 - Three-Tier Architecture
 - UML Class Diagram Design
 
-## Result
-- 100/100
+## Results
+
+- **Final Grade: 100 / 100** — Full marks awarded by instructor
+- **Supervisor:** Miss Rimsha Chauhdary
+- **Subject:** CSC-103L Object Oriented Programming — Spring 2026
+- All functional requirements implemented and verified
+- Three-tier architecture correctly implemented and demonstrated
+- All business rules enforced and tested
+- Merit list generation, seat allocation, and fee calculation 
+  working correctly
+- Role-based portal system (Student, Faculty, Admin) fully functional
+- Console UI with typewriter effects and color-coded portals 
+  appreciated during demonstration
 
 ## Author
 
