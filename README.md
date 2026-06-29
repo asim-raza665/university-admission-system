@@ -83,6 +83,9 @@ StudentDL, ProgramDL, SubjectDL
 - Three-Tier Architecture
 - UML Class Diagram Design
 
+## Result
+- 100/100
+
 ## Author
 
 Asim Raza  
